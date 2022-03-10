@@ -20,6 +20,10 @@ Note - this is an un-moderated list - just collecting suggestions for now
 
 * Protect custom trading strategies by keeping key logic off-chain
 
+* Build meta-transactions on Boba (with/without Turing)
+
+* Build on-chain(contract level) name resolver with Turing (ENS, Unstoppable Domains etc)
+
 ### DeFi
 
 * Reduce slippage and increase performance of stable-swap algorithms by off-loading most of the math to Turing
@@ -56,3 +60,5 @@ Players can pick PvP or PvE on a simple map in browser (kinda like super mario l
 * Build on-chain versions of Tik-Tok and Facebook
 
 * *Surveys* can be on-chain/decentralized to some degree
+
+* Generative art on L2 blocks/ block-time/ commit roots etc 
