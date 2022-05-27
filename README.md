@@ -12,6 +12,10 @@
 
 Note - this is an un-moderated list - just collecting suggestions for now
 
+## Turing
+
+Docs for Hybrid Compute - Turing on Boba: https://docs.boba.network/turing
+
 ### Security; Major new functionality
 
 * Cross-chain bridging/fast exits using inclusion proofs from other chains to trigger changes on Boba
