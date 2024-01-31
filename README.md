@@ -16,7 +16,7 @@ Note - this is an un-moderated list - just collecting suggestions for now
 
 Docs for Hybrid Compute - Turing on Boba: https://docs.boba.network/turing
 
-### Security; Major new functionality
+<h3 id="security--major-new-functionality">Security; Major new functionality</h3>
 
 * Cross-chain bridging/fast exits using inclusion proofs from other chains to trigger changes on Boba
 
@@ -32,7 +32,7 @@ Docs for Hybrid Compute - Turing on Boba: https://docs.boba.network/turing
 
 * Reduce slippage and increase performance of stable-swap algorithms by off-loading most of the math to Turing
 
-### Education/Gaming
+<h3 id="education-gaming">Education/Gaming</h3>
 
 * An *educational* app where you get badges for completing certain tasks or puzzles
 
@@ -45,7 +45,7 @@ Players can pick PvP or PvE on a simple map in browser (kinda like super mario l
 
 * Participate in eBay auctions via smart contracts
 
-### IRL<>Crypto; Rewards; Motivation
+<h3 id="irl--crypto--rewards--motivation">IRL<>Crypto; Rewards; Motivation</h3>
 
 * Integrate real-world events with a crypto settlement layer - any service that exposes an API can now be connected to on-chain settlements (Social Networking, Music, Games)
 
